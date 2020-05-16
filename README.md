@@ -51,3 +51,22 @@ This is a [link](https://github.com/sunday-killer/markdown "This is a title")
 ***Strong Italic***
 ~~crossed out~~
 
+## Картинки ##
+
+Картинка без `alt` и `title`
+
+![](//placehold.it/150x100)
+
+Картинка с `alt` и `title`
+
+![Alt text](//placehold.it/150x100 "Here is a title")
+
+Картинки «сноски»:
+
+![Картинка][image1]
+
+[image1]: //placehold.it/150x100 "Here is a title"
+
+Картинки-ссылки:
+
+[![Alt text](//placehold.it/150x100)](https://github.com "Title for image-link")

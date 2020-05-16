@@ -44,3 +44,10 @@ This is a [link](https://github.com/sunday-killer/markdown "This is a title")
 [1]: https://github.com/sunday-killer/markdown "Title here"
 [2]: https://github.com/sunday-killer
 [ссылка №3]: https://github.com
+
+## Выделение ##
+*italic*
+**Strong**
+***Strong Italic***
+~~crossed out~~
+

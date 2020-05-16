@@ -28,3 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 	<li class="menu__item">Item #2</li>
 </nav>
 ```
+
+```php
+<?php var_dump(true); ?>
+```

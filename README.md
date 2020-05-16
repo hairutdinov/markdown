@@ -32,3 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 ```php
 <?php var_dump(true); ?>
 ```
+
+## Горизонтальная черта ##
+***
+

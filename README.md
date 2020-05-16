@@ -38,3 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 
 ## Ссылки ##
 This is a [link](https://github.com/sunday-killer/markdown "This is a title")
+
+Вот тут будут несколько ссылок: [ссылка №1][1], [ссылка №2][2], [ссылка №3][]
+
+[1]: https://github.com/sunday-killer/markdown "Title here"
+[2]: https://github.com/sunday-killer
+[ссылка №3]: https://github.com

@@ -6,3 +6,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 
 Текст  
 ...оборвался
+
+
+## Списки ##
+* 1
+* 2
+    * 2.1
+    * 2.2
+* 3

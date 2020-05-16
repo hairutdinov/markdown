@@ -20,3 +20,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 0. Element #1
 0. Element #2
 0. Element #3
+
+## Исходный код ##
+```html
+<nav class="menu">
+	<li class="menu__item">Item #1</li>
+	<li class="menu__item">Item #2</li>
+</nav>
+```

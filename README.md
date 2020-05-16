@@ -14,3 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
     * 2.1
     * 2.2
 * 3
+
+### Упорядоченный список ###
+
+0. Element #1
+0. Element #2
+0. Element #3

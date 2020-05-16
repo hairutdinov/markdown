@@ -36,3 +36,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi autem sequi quo 
 ## Горизонтальная черта ##
 ***
 
+## Ссылки ##
+This is a [link](https://github.com/sunday-killer/markdown "This is a title")
